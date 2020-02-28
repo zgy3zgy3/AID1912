@@ -1,6 +1,6 @@
 """
 第一种方案
-我也改了
+可以的
 """
 
 insert into book (title,author,publication,price,comment) values
