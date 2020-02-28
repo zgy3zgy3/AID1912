@@ -1,5 +1,7 @@
 
-
+"""
+我要操作
+"""
 insert into book (title,author,publication,price,comment) values
 ('边城','沈从文','机械工业出版社',36,'小城故事多'),
 ('骆驼祥子','老舍','中国教育出版社',42,'你是祥子么'),
