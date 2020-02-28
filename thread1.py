@@ -1,3 +1,7 @@
+"""
+第一种方案
+"""
+
 from threading import Thread
 from time import sleep
 import os
