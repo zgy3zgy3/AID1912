@@ -1,6 +1,7 @@
 
 """
 最终正确的
+远程修改
 """
 insert into book (title,author,publication,price,comment) values
 ('边城','沈从文','机械工业出版社',36,'小城故事多'),
